@@ -19,5 +19,9 @@ namespace WebApplication1
             lbllastName.Text = ",Pune";
         }
 
+        protected void btnSumbit_Click(object sender, EventArgs e)
+        {
+            labelFirstName();
+        }
     }
 }
