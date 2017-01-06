@@ -16,6 +16,7 @@ namespace WebApplication1
         public void labelFirstName()
         {
             lblfirstName.Text = "Sagitec Solutions";
+            lbllastName.Text = ",Pune";
         }
 
     }
