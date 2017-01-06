@@ -21,6 +21,7 @@ namespace WebApplication1
 
         protected void btnSumbit_Click(object sender, EventArgs e)
         {
+            //called the method 
             labelFirstName();
         }
     }
