@@ -14,9 +14,9 @@
         <div>
             <asp:Label ID="lbllastName" runat="server"></asp:Label>
         </div>
-     <div>
-         <asp:Button ID="btnsubmit" runat="server" Text="Submit" OnClick="btnSumbit_Click"/>
-     </div>
+        <div>
+            <asp:Button ID="btnSumbit" Text="Display" runat="server" />
+        </div>
     </form>
 </body>
 </html>
